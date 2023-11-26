@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Atomo021
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me...
+- 👋 Hola, soy @Atomo021
+- 👀 Estoy interesado en ...
+- 🌱 Estoy actualmente aprendiendo: HTML.
+- 💞️Busco colaborar en: Nada, por ahora.
+- 📫 Cómo contactarme: Además que no es necesario por ahora (creo), tengo que tenerlo en cuenta.
 
-<!---
-Atomo021/Atomo021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--
+Atomo021/Atomo021 es un repositorio ✨ especial ✨ porque su `README.md` (este archivo) aparece en tu perfil de GitHub.
+Puede hacer clic en el enlace Vista previa para ver los cambios.
+-->
