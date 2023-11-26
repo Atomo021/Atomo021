@@ -1,5 +1,5 @@
 - 👋 Hola, soy @Atomo021
-- 👀 Estoy interesado en ...
+- 👀 Estoy interesado en: No lo sé, ¿Proyectos web, talvez?
 - 🌱 Estoy actualmente aprendiendo: HTML.
 - 💞️Busco colaborar en: Nada, por ahora.
 - 📫 Cómo contactarme: Además que no es necesario por ahora (creo), tengo que tenerlo en cuenta.
