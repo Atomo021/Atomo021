@@ -1,9 +1,9 @@
 - 👋 Hola, soy @Atomo021
-- 👀 Estoy interesado en: Mi proyecto Web, ¿De los demás? Los proyectos de IA's, son el futuro.
-- 🌱 Estoy actualmente aprendiendo: .
+- 👀 Estoy interesado en: Proyectos web.
+- 🌱 Estoy actualmente aprendiendo: 
 - 💞️ Busco colaborar en: Nada, por ahora.
 - 📫 Cómo contactarme: Gmail: oficialmoyihd@gmail.com
-- 🔧 Lenguajes aprendidos: HTML.
+- 🔧 Lenguajes aprendidos: HTML (completo), CSS (a medias), JS (solo teoría), Kotlin (fundamentos básicos).
 
 <!--
 Atomo021/Atomo021 es un repositorio ✨ especial ✨ porque su `README.md` (este archivo) aparece en tu perfil de GitHub.
